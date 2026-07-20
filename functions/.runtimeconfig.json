@@ -1,0 +1,7 @@
+{
+  "twilio": {
+    "sid": "REPLACE_ME",
+    "token": "REPLACE_ME",
+    "from": "+1234567890"
+  }
+}

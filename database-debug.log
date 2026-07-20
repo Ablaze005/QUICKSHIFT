@@ -1,0 +1,6 @@
+15:17:09.650 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+15:17:09.780 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+15:17:19.120 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - demo-project successfully activated FBKV (SurveyIdle(0)) wait: 169ms, init: 0ms
+15:17:19.186 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace demo-project status Active to Active
+15:17:19.212 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace demo-project status Active to Active
+15:26:29.614 [NamespaceSystem-blocking-namespace-operation-dispatcher-11] INFO com.firebase.core.stats.EventAuditLog - {"eventId":"85dnHLM3T1d9hPM3RuWShTtwdVQ=","namespace":"demo-project","projectNumber":"123456789","eventType":"providers/google.firebase.database/eventTypes/ref.create","flowName":"projects/demo-project/topics/us-central1-onRequestCreate-0","resource":"projects/_/instances/demo-project/refs/requests/-OxulMVODr5tqDCv0Xa4","evaluationTimestamp":"2026-07-19T14:26:29.585Z","stage":"TRIGGERED"}
